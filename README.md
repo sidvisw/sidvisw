@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science and Engineering
 - 🌱 I’m currently learning in Indian Institute of Technology, Kharagpur
 - 💞️ I’m looking to collaborate on Software Engineering
-- 📫 How to reach me ...
+- 📫 How to reach me https://www.linkedin.com/in/sidharth-vishwakarma/
 
 <!---
 sidvisw/sidvisw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
